@@ -4,6 +4,44 @@
 
 Aplicação local de estudos para cadastrar livros e pessoas, emprestar e devolver livros e consultar empréstimos ativos.
 
+## Contexto de estudo
+
+Este projeto está sendo desenvolvido para acompanhar a leitura de *Arquitetura Limpa*, de Robert C. Martin (Uncle Bob).
+
+No início do projeto, SOLID e Clean Architecture ainda não haviam sido estudados. Respeite o estágio de aprendizado informado pelo usuário: não aplique Clean Architecture nem antecipe padrões ou abstrações para necessidades futuras. Antes de implementar novas funcionalidades, proponha uma estrutura mínima e explique suas decisões.
+
+## Prompt original
+
+> Quero criar um projeto de estudos chamado Personal Library.
+>
+> Ele será utilizado durante minha leitura de Arquitetura Limpa.
+>
+> Requisitos iniciais:
+>
+> - cadastrar livros;
+> - cadastrar pessoas;
+> - listar livros;
+> - emprestar livros;
+> - devolver livros;
+> - listar empréstimos ativos;
+> - impedir empréstimo de livro indisponível.
+>
+> Quero uma implementação simples e pragmática.
+>
+> IMPORTANTE:
+>
+> Ainda não estudei SOLID nem Clean Architecture.
+>
+> Portanto:
+> - não aplique Clean Architecture;
+> - não antecipe padrões arquiteturais;
+> - não crie abstrações pensando no futuro;
+> - não use patterns desnecessariamente.
+>
+> Ajude-me a construir apenas a solução mais simples que atende aos requisitos atuais.
+>
+> Antes de implementar, proponha uma estrutura mínima e explique suas decisões.
+
 ## Tecnologias e comandos
 
 - Next.js App Router, React, TypeScript, ESLint e Tailwind CSS.
